@@ -1,16 +1,13 @@
-## Hi there 👋
+<h2>👋 Hi there, I'm Justine Norie!</h2>
 
-<!--
-**justinenorie/justinenorie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can contact me at, [justinenorie](mailto:justinedelacruz97@gmail.com)
 
-Here are some ideas to get you started:
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=justinenorie&show_icons=true&theme=dark" alt="justinenorie" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- 
+    Missing:
+    - Short Description About Me.
+    - Tech Stacks
+    - Projects
+    - Contact Information
+ -->
