@@ -5,9 +5,9 @@ You can contact me at, [justinedelacruz97@gmail.com](mailto:justinedelacruz97@gm
 <!-- Github Stats (start) -->
 <div align="center" style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=justinenorie&show_icons=true&include_all_commits=true&theme=dark" 
-         alt="justinenorie" style="height: 200px;"/>
+         alt="justinenorie" height="180em"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinenorie&layout=compact&theme=dark" 
-         alt="justinenorie-languages" style="height: 200px;"/>
+         alt="justinenorie-languages" height="180em" />
 </div>
 <!-- Github Stats (end) -->
 
