@@ -2,7 +2,8 @@
 
 <!-- TODO: Add more details here -->
 
-- 🌱 I'm currently learning Object-Oriented Programming in JavaScript
+- 🌱 I'm currently learning in JavaScript
+- 📚 Challenging myself to finish fullstack course in freeCodeCamp
 - 📫 Feel free to contact me [justinedelacruz97@gmail.com](mailto:justinedelacruz97@gmail.com)
 
 
