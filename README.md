@@ -54,6 +54,7 @@
 #### Database
 <p>
   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres&theme=dark"/>
     <img src="https://skillicons.dev/icons?i=mongodb&theme=dark"/>
     <img src="https://skillicons.dev/icons?i=firebase&theme=dark"/>
   </a>
