@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there, I'm Justine Norie! </h1>
 
-- <a href="https://norie.netlify.app/">💻 My Personal Portfolio</a>
+- <a href="https://norie.netlify.app/" target="_blank" rel="noopener noreferrer">💻 My Personal Portfolio</a>
 - 🌱 I'm currently learning JavaScript/Typescript
 - 📫 Feel free to contact me [justinedelacruz97@gmail.com](mailto:justinedelacruz97@gmail.com)
 
