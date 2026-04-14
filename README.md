@@ -18,6 +18,7 @@
     <img src="https://skillicons.dev/icons?i=typescript&theme=dark"/>
     <img src="https://skillicons.dev/icons?i=react&theme=dark"/>
     <img src="https://skillicons.dev/icons?i=nextjs&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=laravel&theme=dark"/>
     <img src="https://skillicons.dev/icons?i=tailwindcss&theme=dark"/>
     <img src="https://skillicons.dev/icons?i=git&theme=dark"/>
     <img src="https://skillicons.dev/icons?i=nodejs&theme=dark"/>
