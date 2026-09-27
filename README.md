@@ -1,42 +1,45 @@
 <h1 align="center">👋 Hi there, I'm Justine Norie! </h1>
 
-- <a href="https://norie.netlify.app/" target="_blank" rel="noopener noreferrer">💻 My Personal Portfolio</a>
-- 🌱 I'm currently exploring.
-- 📫 Feel free to contact me [justinedelacruz97@gmail.com](mailto:justinedelacruz97@gmail.com)
+<p align="center"> <strong>Full Stack Developer</strong> </p>
+
+<p align="center"> I don't need a fixed tech stack — I can learn whatever the problem requires. </p>
 
 ---
 
-<!-- tech stack (start) -->
+## About Me
 
-## My Tech Stacks
+I'm a **Full Stack Developer** who enjoys building things for the web and continuously learning new technologies.
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html&theme=dark"/>
-    <img src="https://skillicons.dev/icons?i=css&theme=dark"/>
-    <img src="https://skillicons.dev/icons?i=javascript&theme=dark"/>
-    <img src="https://skillicons.dev/icons?i=typescript&theme=dark"/>
-    <img src="https://skillicons.dev/icons?i=react&theme=dark"/>
-    <img src="https://skillicons.dev/icons?i=nextjs&theme=dark"/>
-    <img src="https://skillicons.dev/icons?i=laravel&theme=dark"/>
-    <img src="https://skillicons.dev/icons?i=tailwindcss&theme=dark"/>
-    <img src="https://skillicons.dev/icons?i=git&theme=dark"/>
-    <img src="https://skillicons.dev/icons?i=nodejs&theme=dark"/>
-    <img src="https://skillicons.dev/icons?i=express&theme=dark"/>
-    <img src="https://skillicons.dev/icons?i=postgresql&theme=dark"/>
-    <img src="https://skillicons.dev/icons?i=mongodb&theme=dark"/>
-    <img src="https://skillicons.dev/icons?i=sqlite&theme=dark"/>
-    <img src="https://skillicons.dev/icons?i=figma&theme=dark"/>
-    <img src="https://skillicons.dev/icons?i=vscode&theme=dark"/>
-  </a>
-</p>
+Rather than limiting myself to a specific tech stack, I focus on understanding **fundamentals, problem-solving, and how systems work**.
 
-<!-- tech stack (end) -->
+* 💻 <a href="https://norie.netlify.app/" target="_blank" rel="noopener noreferrer">My Personal Portfolio</a>
+* 🚀 Currently building, learning, and experimenting with different technologies.
+* 📫 Feel free to contact me at [justinedelacruz97@gmail.com](mailto:justinedelacruz97@gmail.com)
 
-<!--
-    Missing:
-    - Short Description About Me.
-    - Tech Stacks
-    - Projects
-    - Contact Information
- -->
+---
+
+## Tech Stack?
+
+> **I don't need a tech stack. I can learn everything.**
+
+Instead of defining myself by a fixed list of technologies, I believe in being **technology-agnostic**.
+
+My goal is to understand the problem first, then learn and use the right tools to solve it.
+
+---
+
+## What I Like Building
+
+* 🌐 Web Applications
+* ⚡ Modern Frontend Experiences
+* 🔧 Backend Systems & APIs
+* 🗄️ Database-driven Applications
+* 🎮 Real-time Web Applications
+* 🏗️ Full Stack Projects
+* 🤖 Developer Tools & Automation
+
+---
+
+## Currently Learning
+
+I'm continuously exploring new technologies, architectures, and development practices.
